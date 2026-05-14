@@ -10,7 +10,7 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0586&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Passionate+about+technology+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0586&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new+%F0%9F%9A%80" />
 
 </div>
 
