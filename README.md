@@ -3,6 +3,50 @@
 </div>
 
 ###
+# 💻 Hi, I'm Laura!  
+
+✨ Student passionate about technology.  
+🚀 Always learning new things and turning ideas into projects.   
+
+<div align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0586&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Passionate+about+technology+%F0%9F%92%BB;Always+learning+something+new+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 🌸 About Me
+- 📚 Studying programming and technology at EtecVAV
+- 🎨 I enjoy creating modern and aesthetic projects
+- 🩷 Pink aesthetic + tech lover   
+- ☕ Late night coding enthusiast  
+- 🎮 Anime and gaming fan   
+  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&title_color=ff0586&icon_color=ff0586&text_color=ffffff&bg_color=0d1117&border_color=ff0586"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&title_color=ff0586&text_color=ffffff&bg_color=0d1117&border_color=ff0586"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Turning ideas into code.” ✨
+
+</div>
+
+###
+
+## Tecnologies 💡
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
