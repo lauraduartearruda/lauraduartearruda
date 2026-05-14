@@ -23,21 +23,6 @@
 - ☕ Late night coding enthusiast  
 - 🎮 Anime and gaming fan   
   
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&title_color=ff0586&icon_color=ff0586&text_color=ffffff&bg_color=0d1117&border_color=ff0586"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&title_color=ff0586&text_color=ffffff&bg_color=0d1117&border_color=ff0586"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ “Turning ideas into code.” ✨
