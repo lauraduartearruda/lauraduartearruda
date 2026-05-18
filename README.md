@@ -3,7 +3,7 @@
 </div>
 
 ###
-# 💻 Hi, I'm Laura!  
+# Hi, I'm Laura! 💻  
 
 ✨ Student passionate about technology.  
 🚀 Always learning new things and turning ideas into projects.   
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me 🌸
 - 📚 Studying programming and technology at EtecVAV
 - 🎨 I enjoy creating modern and aesthetic projects
 - 🩷 Pink aesthetic + tech lover   
@@ -58,6 +58,8 @@
 </div>
 
 ###
+
+## Contribuitions 🪼
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauraduartearruda/lauraduartearruda/pacman-output/galaga-contribution-graph-dark.svg">
