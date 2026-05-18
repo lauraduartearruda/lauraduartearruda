@@ -16,21 +16,6 @@
 
 ---
 
-## About Me 🌸
-- 📚 Studying programming and technology at EtecVAV
-- 🎨 I enjoy creating modern and aesthetic projects
-- 🩷 Pink aesthetic + tech lover   
-- ☕ Late night coding enthusiast  
-- 🎮 Anime and gaming fan   
-  
-<div align="center">
-
-### ✨ “Turning ideas into code.” ✨
-
-</div>
-
-###
-
 ## Tecnologies 💡
 
 <div align="center">
@@ -55,6 +40,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+</div>
+
+## About Me 🌸
+- 📚 Studying programming and technology at EtecVAV
+- 🎨 I enjoy creating modern and aesthetic projects
+- 🩷 Pink aesthetic + tech lover   
+- ☕ Late night coding enthusiast  
+- 🎮 Anime and gaming fan   
+  
+<div align="center">
+
+### ✨ “Turning ideas into code.” ✨
+
 </div>
 
 ###
